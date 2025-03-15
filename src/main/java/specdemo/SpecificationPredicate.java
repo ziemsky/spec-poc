@@ -1,5 +1,7 @@
-package com.ziemsky;
+package specdemo;
 
+import specdemo.predicates.SpecificationPredicateEquals;
+import specdemo.predicates.SpecificationPredicateRegex;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 

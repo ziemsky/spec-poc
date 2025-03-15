@@ -1,4 +1,4 @@
-package com.ziemsky;
+package specdemo;
 
 import static java.util.stream.Collectors.toMap;
 

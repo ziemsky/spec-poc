@@ -1,4 +1,4 @@
-package com.ziemsky;
+package specdemo;
 
 public enum Parameter {
     COUNTRY,
